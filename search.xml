@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>windows10/11修改系统用户名</title>
+      <link href="/p/d5574ae1.html"/>
+      <url>/p/d5574ae1.html</url>
+      
+        <content type="html"><![CDATA[<h1>Windows10/11修改系统用户名</h1><h2 id="1-修改注册表">1.修改注册表</h2><ul><li><p><code>win+R</code>+<code>regedit</code> 打开注册表编辑器</p></li><li><p>在下面路径下打开最长的文件夹</p><p><code>计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList</code></p> <img src="/p/d5574ae1/image-20221229114726142.png" class title="image-20221229114726142"></li><li><p>双击下面的选项</p> <img src="/p/d5574ae1/image-20221229114834984.png" class title="image-20221229114834984"></li><li><p>将用户名修改为自己想要的样子</p> <img src="/p/d5574ae1/image-20221229114958335.png" class title="image-20221229114958335"></li><li><p>确定后重启电脑</p></li></ul><h2 id="2-修改用户文件夹名">2.修改用户文件夹名</h2><ul><li><p>修改 <code>C:\Users\</code> 路径下的用户文件夹名称与刚刚注册表中的一致</p></li><li><p>如果显示被占用无法修改，则打开任务管理器，按如下方法关闭占用进程后重试</p><p><code>性能</code> -&gt; <code>打开资源监视器</code> -&gt; <code>CPU</code></p> <img src="/p/d5574ae1/image-20221229115536012.png" class title="image-20221229115536012"></li><li><p>成功修改文件夹名后，重启电脑</p></li></ul><h2 id="3-修改环境变量">3.修改环境变量</h2><ul><li><p>打开环境变量界面</p></li><li><p><code>此电脑</code> -&gt; <code>属性</code> -&gt; <code>高级系统设置</code> -&gt; <code>环境变量</code></p></li><li><p>将上下两栏中所有有涉及 <code>C:\Users\旧用户名</code> 的环境变量修改为新用户名</p> <img src="/p/d5574ae1/image-20221229120021597.png" class title="image-20221229120021597"></li><li><p>再将下面 <code>Path</code> 中的所有涉及 <code>C:\Users\旧用户名</code> 的环境变量修改为新用户名</p> <img src="/p/d5574ae1/image-20221229120146893.png" class title="image-20221229120146893"></li></ul><p>至此修改用户名就成功啦！</p><p>当然很难一次性将所有涉及旧用户名的地方全部修改为新用户名，不过这样基本没问题了，遇到问题再解决就好。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小Tips </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows11修改系统用户名 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>升级windows11专业版</title>
+      <link href="/p/c1cd35fc.html"/>
+      <url>/p/c1cd35fc.html</url>
+      
+        <content type="html"><![CDATA[<h1>升级windows11专业版</h1><p>win10/11家庭升级专业版<br>激活步骤 ：<br>1.点开始——设置——更新和安全——激活——点击更改产品密钥</p><p>输入密钥后重启</p><p><code>NH887-X4WJG-2R7GK-BW3YG-HFR9G</code></p><hr><p>-----------------------<br>2.成功升级到专业版后，此时可能已经成功激活了，享用即可</p><p>如果显示未激活，则如下操作</p><p>点开始——设置——更新和安全——激活——点击更改产品密钥</p><p>输入下面密钥</p><p><code>XPF84-N4GC9-RXKJ9-434H4-2KCKM</code></p><p>——激活成功</p> <img src="/p/c1cd35fc/image-20221229114127109.png" class title="image-20221229114127109">]]></content>
+      
+      
+      <categories>
+          
+          <category> 小Tips </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows11专业版 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C语言——指针</title>
       <link href="/p/e1473528.html"/>
       <url>/p/e1473528.html</url>
