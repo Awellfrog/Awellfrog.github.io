@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Chrome实用小插件</title>
+      <link href="/p/4fef4099.html"/>
+      <url>/p/4fef4099.html</url>
+      
+        <content type="html"><![CDATA[<h1>Chrome 实用小插件</h1><p>记录一些使用的 Chrome 小插件。</p><h2 id="1-tampermonkey">1. Tampermonkey</h2><p>好用没得说。</p> <img src="/p/4fef4099/image-20221229213919879.png" class title="image-20221229213919879"><h2 id="2-octotree-github-code-tree">2. Octotree - GitHub code tree</h2><p>在 <code>github</code> 上查看项目时，侧边栏以目录的形式给出，方便查看。</p> <img src="/p/4fef4099/image-20221229214002457.png" class title="image-20221229214002457"> <img src="/p/4fef4099/image-20221229214127393.png" class title="image-20221229214127393"><h2 id="3-mathjax-plugin-for-github">3. MathJax Plugin for Github</h2><p>在GitHub上一些 <code>readme.md</code> 写的非常精彩，可是网页本身对一些数学公式不能正常渲染，让人心里非常着急，下面这个插件可以在一定程度上解决这个问题。</p> <img src="/p/4fef4099/image-20221229214206801.png" class title="image-20221229214206801"><p>安装插件后，进入要查看的 github 界面，可以看到公式没有正常渲染</p> <img src="/p/4fef4099/image-20221229214546344.png" class title="image-20221229214546344"><p>刷新一下界面后，公式就被成功渲染出来了。</p> <img src="/p/4fef4099/image-20221229214610914.png" class title="image-20221229214610914"><h2 id="4-侧边翻译">4. 侧边翻译</h2><p>选中待翻译的文字后，会弹出一个小标，点击即可在侧边栏看到内容的翻译，方便快捷。</p> <img src="/p/4fef4099/image-20221229214700841.png" class title="image-20221229214700841"><h2 id="5-proxy-switchyomega">5. Proxy SwitchyOmega</h2><p>轻松管理代理，不用手动来回切换，很方便。</p> <img src="/p/4fef4099/image-20221229214828337.png" class title="image-20221229214828337">]]></content>
+      
+      
+      <categories>
+          
+          <category> 小Tips </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Chrome小插件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>windows10/11修改系统用户名</title>
       <link href="/p/d5574ae1.html"/>
       <url>/p/d5574ae1.html</url>
